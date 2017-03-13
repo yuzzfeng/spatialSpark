@@ -6,3 +6,4 @@ A short introduction for Apache Spark and some helpful python pacakges, such as 
 
 https://github.com/sabman/PySparkGeoAnalysis
 
+http://nbviewer.jupyter.org/github/yuzzfeng/spatialSpark/blob/master/Montagsrunde.ipynb#Montagsrunde:-Demo
