@@ -13,6 +13,6 @@ https://cdn.rawgit.com/yuzzfeng/spatialSpark/807bbf7a/demo.html
 
 
 - Reference:
-https://spark.apache.org/docs/1.6.1/programming-guide.html
-http://simin.me/projects/spatialspark/
-https://github.com/sabman/PySparkGeoAnalysis
+1. https://spark.apache.org/docs/1.6.1/programming-guide.html
+2. http://simin.me/projects/spatialspark/
+3. https://github.com/sabman/PySparkGeoAnalysis
