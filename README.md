@@ -11,9 +11,6 @@ A short introduction for Apache Spark and some helpful python pacakges, such as 
 - Twitter Demo with folium
   https://cdn.rawgit.com/yuzzfeng/spatialSpark/807bbf7a/demo.html
 
-\s\s
-\s\s
-    
     
 - Reference:
 1. https://spark.apache.org/docs/1.6.1/programming-guide.html
