@@ -38,3 +38,10 @@ $ docker stop backstabbing_sammet
 - Get info of container
 
 $ docker inspect mad_northcutt
+
+
+curl -O https://repo.continuum.io/archive/Anaconda3-4.2.0-Linux-x86_64.sh
+
+sha256sum Anaconda3-5.0.1-Linux-x86_64.sh
+
+bash Anaconda3-5.0.1-Linux-x86_64.sh
