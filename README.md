@@ -1,6 +1,6 @@
 # Spatial Analysis on Spark
 
-A short and simple introduction for Apache Spark in Python and some helpful python pacakges, such as pandas, geoPandas, folium. Main contents are referenced by the tutorials given by Shoaib Burq during the GeoPython 2016.
+A short and simple introduction for Apache Spark in Python and some helpful python pacakges, such as pandas, geoPandas, folium. Main contents are referenced by the tutorials given by [Shoaib Burq](https://github.com/sabman/PySparkGeoAnalysis) during the GeoPython 2016.
 
 - Basic Spark operations - RDD and DataFrame
   http://nbviewer.jupyter.org/github/yuzzfeng/spatialSpark/blob/master/Montagsrunde_basics.ipynb
@@ -18,8 +18,6 @@ A short and simple introduction for Apache Spark in Python and some helpful pyth
 - Reference:
 1. https://spark.apache.org/docs/1.6.1/programming-guide.html
 2. http://simin.me/projects/spatialspark/
-3. https://github.com/sabman/PySparkGeoAnalysis
-
 
 
 - Run docker with certain port connected to outside
