@@ -21,28 +21,23 @@ A short and simple introduction for Apache Spark in Python and some helpful pyth
 
 
 - Run docker with certain port connected to outside
-
+```
 $ docker run -it -p 8888:8888 tensorflow/tensorflow:1.5.0-gpu
-
-
+```
 - Start and stop a container
-
+```
 $ docker start backstabbing_sammet
-
 $ winpty docker exec -i -t backstabbing_sammet bash
-
 $ docker stop backstabbing_sammet
-
+```
 - Get info of container
-
+```
 $ docker inspect mad_northcutt
-
+```
 - Download anaconda
+```
 $ curl -O https://repo.continuum.io/archive/Anaconda3-4.2.0-Linux-x86_64.sh
-
 $ sha256sum Anaconda3-5.0.1-Linux-x86_64.sh
-
 $ bash Anaconda3-5.0.1-Linux-x86_64.sh
-
 $ export PATH=/root/anaconda3/bin:$PATH
-
+```
